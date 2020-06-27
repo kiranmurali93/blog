@@ -2,27 +2,23 @@
 title = "About"
 description = "Hugo, the world’s fastest framework for building websites"
 date = "2019-02-28"
-aliases = ["about-us","about-hugo","contact"]
+aliases = ["about-me","contact"]
 author = "Hugo Authors"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+---
 
-Hugo makes use of a variety of open source projects including:
+## B.tech Computer Science Student
+        At School Of Engineering, CUSAT
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+## Web Developer
+        HTML, CSS, JS, NODE JS, MONGO DB, MYSQL
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+## Tech Explorer
+        Loves exploring new tech around us
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+## Event organiser
+        Innovator summit, Make A Ton 2.0, Letspy and few hands on sessions
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
-
-
-
+## Volunteer
+        GDG Dev-Fest Kochi, Debutsav, WordCamp, Dhishna

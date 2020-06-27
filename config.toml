@@ -32,22 +32,22 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[params.socialIcons]]
 icon = "fa-linkedin"
 title = "Linkedin"
-url = "https://de.linkedin.com/"
+url = "https://www.linkedin.com/in/kiran-p-k/"
 
 [[params.socialIcons]]
 icon = "fa-github"
 title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
+url = "https://github.com/kiranmurali93"
 
 [[params.socialIcons]]
 icon = "fa-instagram"
 title = "instagram"
-url = "https://www.instagram.com/"
+url = "https://github.com/kiranmurali93"
 
 [[params.socialIcons]]
 icon = "fa-envelope"
 title = "e-mail"
-url = "mailto:mail@alexbilz.com"
+url = "mailto:kiranmurali93@gmail.com"
 
 ## Menu items
 
@@ -60,13 +60,15 @@ url = "mailto:mail@alexbilz.com"
   url = "/"
 
   [[menu.main]]
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/about/"
+  
+  [[menu.main]]
   name = "Posts"
   weight = 200
   identifier = "posts"
   url = "/post/"
 
-  [[menu.main]]
-  name = "About"
-  weight = 300
-  identifier = "about"
-  url = "/about/"
+  
