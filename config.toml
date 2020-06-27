@@ -1,4 +1,4 @@
-baseURL = "https://kiranmurali93.github.io/blog/"
+baseURL = "https://kiranmurali93.github.io/"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Kiran PK"
@@ -17,9 +17,9 @@ enableEmoji = true
 title = "I'm Kiran PK"
 author = "Kiran PK"
 description = ""
-profilePicture = "images/profile.jpg"
+profilePicture = "images/kiran.jpeg"
 keywords = ""
-favicon = "favicons/"
+# favicon = "favicons/"
 customCss = []
 mainSections = ["post"]
 
