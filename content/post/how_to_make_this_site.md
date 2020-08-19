@@ -56,5 +56,8 @@ After copying the example site modify the changes as per your need.
 
 Reffer [HUGO hosting](https://gohugo.io/hosting-and-deployment/)
 
+After you build the site type the command
+
+    Hugo
 
 

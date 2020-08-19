@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kiranmurali93.github.io/blog/post/how_to_make_this_site/</loc>
-    <lastmod>2020-06-27T14:37:48+05:30</lastmod>
+    <loc>https://kiranmurali93.github.io/blog/post/intro_to_web_development/</loc>
+    <lastmod>2020-07-02T00:06:22+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://kiranmurali93.github.io/blog/post/</loc>
+    <lastmod>2020-07-02T00:06:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kiranmurali93.github.io/blog/post/how_to_make_this_site/</loc>
     <lastmod>2020-06-27T14:37:48+05:30</lastmod>
   </url>
   
