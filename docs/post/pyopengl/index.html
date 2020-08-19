@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" data-theme="light"><head>
-    <title> Kiran PK | Posts </title>
+    <title> Kiran PK | OpenGL in Python with PyOpenGL </title>
     <meta charset="utf-8"><meta name="generator" content="Hugo 0.68.0" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
     <meta name="description" content="">
     
@@ -12,7 +12,7 @@
     <link rel="apple-touch-icon" sizes="180x180" href="https://kiranmurali93.github.io/blogapple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="https://kiranmurali93.github.io/blogfavicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="https://kiranmurali93.github.io/blogfavicon-16x16.png">
-    <link rel="canonical" href="https://kiranmurali93.github.io/blog/post/">
+    <link rel="canonical" href="https://kiranmurali93.github.io/blog/post/pyopengl/">
     
     
     <script type="text/javascript" src="https://kiranmurali93.github.io/blog/js/anatole-header.min.c275265a259296f3dd50e8236a77fcbcadb1dbb9597d3045c675dcc2c7c58a93.js" integrity="sha256-wnUmWiWSlvPdUOgjanf8vK2x27lZfTBFxnXcwsfFipM=" crossorigin="anonymous"></script>
@@ -70,7 +70,7 @@
         <li><a  href="/blog/" title="">Home</a></li>
         
         
-        <li><a class="current" href="/blog/post/" title="">Posts</a></li>
+        <li><a  href="/blog/post/" title="">Posts</a></li>
         
         
         <li><a  href="/blog/about/" title="">About</a></li>
@@ -85,38 +85,69 @@
 
             <div class="autopagerize_page_element">
                 <div class="content">
-<div class="archive animated fadeInDown">
-   
-    <ul class="list-with-title">
+<div class="post animated fadeInDown">
+    <div class="post-content">
+
+      <div class="post-title">
+        <h3>OpenGL in Python with PyOpenGL
+        </h3>
+        
+        <div class="info">
+          <i class="fa fa-sun-o"></i><span class="date">Wed, Aug 19, 2020</span>
+          <i class="fa fa-clock-o"></i><span class="reading-time">1-minute read</span>
+        </div>
+        
+        </div>
+
+    <h2 id="installation-for-ubuntu-based-os">Installation for Ubuntu based OS</h2>
+<h2 id="requirements">Requirements</h2>
+<ul>
+<li>Python 3</li>
+<li>python3-pip</li>
+</ul>
+<h2 id="open-the-terminal">Open the terminal</h2>
+<h2 id="update-the-system">Update the system</h2>
+<pre><code>sudo apt-get update
+</code></pre>
+<h2 id="for-pyopengl-packages">For PyOpenGL packages</h2>
+<pre><code>pip3 install PyOpenGL PyOpenGL_accelerate
+</code></pre>
+<h2 id="for-freeglut">For freeglut</h2>
+<pre><code>sudo apt-get install libglu1-mesa-dev freeglut3-dev mesa-common-dev
+</code></pre>
+<h2 id="to-check-the-installation">To check the installation</h2>
+<ul>
+<li>
+<p>Open a new python file</p>
+</li>
+<li>
+<p>Enter the code</p>
+<pre><code>  from OpenGL.GL import *
+  from OpenGL.GLU import *
+  from OpenGL.GLUT import *
+  print('package Import Successful') 
+  # If you see this printed to the console then installation was successful
+</code></pre>
+</li>
+</ul>
+<h2 id="for-sample-programs">For sample programs</h2>
+<h3 id="refer-kiranmurali93pyopengl_labhttpsgithubcomkiranmurali93pyopengl_lab">Refer <a href="https://github.com/kiranmurali93/pyopengl_lab">kiranmurali93/pyopengl_lab</a></h3>
+
+    </div>
+    <div class="post-footer">
+      <div class="info">
+        
+<span class="separator"><a class="category" href="/blog/categories/tech/">Tech</a><a class="category" href="/blog/categories/opengl/">OpenGL</a><a class="category" href="/blog/categories/installation/">Installation</a></span>
+
+        
+      </div>
+    </div>
+
+    
            
-      <div class="listing-title">2020</div>
-      
-      <ul class="listing">
-        <div class="listing-item">
-            <div class="listing-post"><a href="https://kiranmurali93.github.io/blog/post/pyopengl/" title="OpenGL in Python with PyOpenGL">OpenGL in Python with PyOpenGL</a>
-              <div class="post-time"><span class="date">Aug 19</span></div>
-            </div>
-          </div>
-    </ul>
     
-      <ul class="listing">
-        <div class="listing-item">
-            <div class="listing-post"><a href="https://kiranmurali93.github.io/blog/post/intro_to_web_development/" title="Intro_To_Web_Development">Intro_To_Web_Development</a>
-              <div class="post-time"><span class="date">Jul 2</span></div>
-            </div>
-          </div>
-    </ul>
-    
-      <ul class="listing">
-        <div class="listing-item">
-            <div class="listing-post"><a href="https://kiranmurali93.github.io/blog/post/how_to_make_this_site/" title="How_to_make_this_site">How_to_make_this_site</a>
-              <div class="post-time"><span class="date">Jun 27</span></div>
-            </div>
-          </div>
-    </ul>
-    
-    
-  </div>
+</div>
+
 
                 </div>
             </div>

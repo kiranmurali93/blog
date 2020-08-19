@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Installation on Kiran PK</title>
+    <link>https://kiranmurali93.github.io/blog/categories/installation/</link>
+    <description>Recent content in Installation on Kiran PK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 19 Aug 2020 19:11:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://kiranmurali93.github.io/blog/categories/installation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OpenGL in Python with PyOpenGL</title>
+      <link>https://kiranmurali93.github.io/blog/post/pyopengl/</link>
+      <pubDate>Wed, 19 Aug 2020 19:11:00 +0530</pubDate>
+      
+      <guid>https://kiranmurali93.github.io/blog/post/pyopengl/</guid>
+      <description>Installation for Ubuntu based OS Requirements  Python 3 python3-pip  Open the terminal Update the system sudo apt-get update  For PyOpenGL packages pip3 install PyOpenGL PyOpenGL_accelerate  For freeglut sudo apt-get install libglu1-mesa-dev freeglut3-dev mesa-common-dev  To check the installation   Open a new python file</description>
+    </item>
+    
+  </channel>
+</rss>

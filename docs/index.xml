@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>OpenGL in Python with PyOpenGL</title>
+      <link>https://kiranmurali93.github.io/blog/post/pyopengl/</link>
+      <pubDate>Wed, 19 Aug 2020 19:11:00 +0530</pubDate>
+      
+      <guid>https://kiranmurali93.github.io/blog/post/pyopengl/</guid>
+      <description>Installation for Ubuntu based OS Requirements  Python 3 python3-pip  Open the terminal Update the system sudo apt-get update  For PyOpenGL packages pip3 install PyOpenGL PyOpenGL_accelerate  For freeglut sudo apt-get install libglu1-mesa-dev freeglut3-dev mesa-common-dev  To check the installation   Open a new python file</description>
+    </item>
+    
+    <item>
       <title>Intro_To_Web_Development</title>
       <link>https://kiranmurali93.github.io/blog/post/intro_to_web_development/</link>
       <pubDate>Thu, 02 Jul 2020 00:06:22 +0530</pubDate>

@@ -3,12 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kiranmurali93.github.io/blog/post/intro_to_web_development/</loc>
-    <lastmod>2020-07-02T00:06:22+05:30</lastmod>
+    <loc>https://kiranmurali93.github.io/blog/categories/</loc>
+    <lastmod>2020-08-19T19:11:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kiranmurali93.github.io/blog/categories/installation/</loc>
+    <lastmod>2020-08-19T19:11:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kiranmurali93.github.io/blog/categories/opengl/</loc>
+    <lastmod>2020-08-19T19:11:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kiranmurali93.github.io/blog/post/pyopengl/</loc>
+    <lastmod>2020-08-19T19:11:00+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://kiranmurali93.github.io/blog/post/</loc>
+    <lastmod>2020-08-19T19:11:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kiranmurali93.github.io/blog/categories/tech/</loc>
+    <lastmod>2020-08-19T19:11:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kiranmurali93.github.io/blog/post/intro_to_web_development/</loc>
     <lastmod>2020-07-02T00:06:22+05:30</lastmod>
   </url>
   
@@ -30,10 +55,6 @@
   <url>
     <loc>https://kiranmurali93.github.io/blog/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kiranmurali93.github.io/blog/categories/</loc>
   </url>
   
   <url>
