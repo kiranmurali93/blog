@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Kiran PK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2020 19:11:00 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2020 19:12:40 +0530</lastBuildDate>
     
 	<atom:link href="https://kiranmurali93.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How To Setup Github profile Readme</title>
+      <link>https://kiranmurali93.github.io/blog/post/github_profile_readme/</link>
+      <pubDate>Sat, 29 Aug 2020 19:12:40 +0530</pubDate>
+      
+      <guid>https://kiranmurali93.github.io/blog/post/github_profile_readme/</guid>
+      <description>You can add a readme file to be displayed on your GitHub profile page Step 1  Create a New Repository</description>
+    </item>
     
     <item>
       <title>OpenGL in Python with PyOpenGL</title>
